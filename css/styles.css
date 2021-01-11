@@ -1,0 +1,25 @@
+.row{
+  background-color: beige;
+}
+
+.col-md-2{
+  background-color: cadetblue;
+}
+
+.col-md-10{
+  background-color: coral;
+}
+
+.book{
+  display: block;
+  margin: auto;
+}
+
+.leftbar{
+  text-align: left;
+  display: inline-block;
+}
+
+.title{
+  text-align: center;
+}
