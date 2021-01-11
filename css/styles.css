@@ -10,16 +10,16 @@
   background-color: coral;
 }
 
-.book{
+#book{
   display: block;
   margin: auto;
 }
 
-.leftbar{
+#leftbar{
   text-align: left;
   display: inline-block;
 }
 
-.title{
+#title{
   text-align: center;
 }
