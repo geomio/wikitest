@@ -1,9 +1,9 @@
 .row{
-  background-color: beige;
+  background-color: rgb(0, 0, 0);
 }
 
 .col-md-2{
-  background-color: cadetblue;
+  background-color: rgb(126, 126, 126);
 }
 
 .col-md-10{
@@ -18,8 +18,23 @@
 #leftbar{
   text-align: left;
   display: inline-block;
+  color: white;
 }
 
 #title{
   text-align: center;
+}
+
+body{
+  background-color: black;
+}
+
+.rtext{
+  color: white;
+}
+
+a{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
 }
