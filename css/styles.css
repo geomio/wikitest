@@ -38,3 +38,14 @@ a{
   background-color: transparent;
   text-decoration: none;
 }
+
+#linecontrol{
+  align-content: center;
+  margin: auto;
+  padding: auto;
+  background-color: transparent;
+}
+
+#headlink{
+  display: inline-block;
+}
