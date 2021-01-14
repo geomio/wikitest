@@ -20,7 +20,8 @@
 }
 
 #leftbar{
-  text-align: left;
+  text-align: center;
+  list-style-type: none;
   display: inline-block;
   color: white;
 }
@@ -38,9 +39,10 @@ body{
 }
 
 a:link, a:visited {
-  background-color: #f44336;
-  color: white;
+  background-color: #272323;
+  color: rgb(255, 211, 17);
   padding: 15px 25px;
+  border-radius: 6px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -63,10 +65,17 @@ a:hover, a:active {
 
 .bodyimg{
   float: left;
-  display: inline-block;
   max-width: 50%;
   max-height: 100px;
   border-radius: 3px;
   padding: 10px;
   margin: 10px;
+}
+
+.redtext{
+  color: red;
+}
+
+.whitetext{
+  color: white;
 }
